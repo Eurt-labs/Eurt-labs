@@ -2,6 +2,17 @@
 🔭 I’m currently working on<br>Cybersecurity fundamentals, CTF challenges, and building small security-focused projects involving networking and embedded systems.<br><br>👯 I’m looking to collaborate on<br>CTFs, hackathons, security research breakdowns, and beginner-friendly cybersecurity or cloud security projects.<br><br>🤝 I’m looking for help with<br>Improving CTF problem-solving skills, understanding real-world attack scenarios, and cloud security best practices.<br><br>🌱 I’m currently learning<br>Network security, cloud security concepts, Linux command-line tools, and ethical hacking methodologies.<br><br>💬 Ask me about<br>Cybersecurity basics, CTFs, Nmap, networking concepts, or getting started with security tools.<br><br>⚡ Fun fact<br>I enjoy breaking down complex security concepts into simple explanations and learning best by hands-on experimentation.<br>
 
 
+## 🛠️ Capabilities:
+- **Cybersecurity**: CTF challenges, ethical hacking, vulnerability analysis, network security assessments
+- **Networking**: TCP/IP, Nmap, packet analysis, firewall configuration, Cisco networking concepts
+- **Cloud Security**: AWS & Cloudflare security practices, Firebase security, cloud infrastructure hardening
+- **Scripting & Automation**: Python, Bash, PowerShell scripting for security tooling and automation
+- **Embedded Systems**: Arduino-based projects, hardware interfacing, IoT security fundamentals
+- **Containerization**: Docker for isolated environments and security lab setups
+- **Privacy & Security Tools**: Tor, Bitwarden, security-focused tool configuration
+- **Machine Learning**: TensorFlow basics applied to security data analysis
+- **Operating Systems**: Linux CLI proficiency, Windows Terminal, command-line security tooling
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv_saraswat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-saraswat-vrtl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruv15saraswat@gmail.com) 
 
