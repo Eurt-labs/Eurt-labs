@@ -5,7 +5,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Eurt-labs&label=Profile%20views&color=0e75b6&style=flat" alt="Eurt-labs" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eurt-labs&theme=flat&column=7" alt="Eurt-labs" height="150" /></a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eurt-labs&theme=react-dark" alt="Eurt-labs" width="100%" />
 </p>
 
 ---
@@ -36,11 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eurt-labs&show_icons=true&locale=en&layout=compact&theme=dark" alt="Eurt-labs" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&locale=en&theme=dark" alt="Eurt-labs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eurt-labs&show_icons=true&locale=en&layout=compact&theme=react" alt="Eurt-labs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&locale=en&theme=react" alt="Eurt-labs" height="165" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurt-labs&theme=dark" alt="Eurt-labs" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurt-labs&theme=react" alt="Eurt-labs" height="165" />
 </p>
 
 ---
