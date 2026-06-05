@@ -29,7 +29,6 @@
 <!--                     SECTION DIVIDER                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/divider.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME — TERMINAL STYLE                      -->
@@ -97,8 +96,6 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 
 </div>
 
-<img src="./assets/divider.png" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     TECH STACK                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -144,98 +141,6 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 </div>
 
 <br/>
-
-<img src="./assets/divider.png" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;`$ ls ~/featured_projects/`
-
-<div align="center">
-
-<img src="./assets/projects_banner.png" width="100%" />
-
-<br/><br/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ AnomX</h3>
-<p align="center">
-<a href="https://github.com/Eurt-labs/AnomX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eurt-labs&repo=AnomX&theme=react&border_color=D97706&border_radius=12&show_owner=true" />
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-</p>
-<p align="center"><b>Personal Emergency Response System</b><br/>Shake-to-Alert SOS with accelerometer data, BLE, foreground services & auto-dispatch via SMS/WhatsApp</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔒 Android Bank Pentesting</h3>
-<p align="center">
-<a href="https://github.com/Eurt-labs/Android-Bank-application-Pentesting-Project-Report">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eurt-labs&repo=Android-Bank-application-Pentesting-Project-Report&theme=react&border_color=D97706&border_radius=12&show_owner=true" />
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/Frida-0078D7?style=flat-square&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
-</p>
-<p align="center"><b>OWASP Mobile Top 10 Assessment</b><br/>6 vulnerabilities found and exploited. Full static + dynamic analysis report.</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 PushPilot</h3>
-<p align="center">
-<a href="https://github.com/Eurt-labs/PushPilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eurt-labs&repo=PushPilot&theme=react&border_color=D97706&border_radius=12&show_owner=true" />
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" />
-</p>
-<p align="center"><b>Auto-Commit Automation Tool</b><br/>Watches directories and auto-pushes changes to GitHub. Zero terminal commands needed.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔬 DFIR with Autopsy</h3>
-<p align="center">
-<a href="https://github.com/Eurt-labs/-Digital-Forensic-analysis-with-autopsy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eurt-labs&repo=-Digital-Forensic-analysis-with-autopsy&theme=react&border_color=D97706&border_radius=12&show_owner=true" />
-</a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Forensics-1A1A2E?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/Autopsy-4B0082?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6Ii8+PC9zdmc+&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Assisted-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
-<p align="center"><b>AI-Assisted Digital Forensics</b><br/>Smart investigation tool that parses system logs & highlights suspicious activities automatically.</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="./assets/divider.png" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -366,8 +271,6 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 ```
 
 <br/>
-
-<img src="./assets/divider.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     CONNECT                                        -->
