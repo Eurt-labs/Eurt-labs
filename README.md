@@ -164,7 +164,7 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Eurt-labs&theme=react&border=D97706&ring=D97706&fire=D97706&currStreakLabel=D97706&sideLabels=D97706&background=0D1117&stroke=D97706&v=1" width="55%" />
+<img src="https://raw.githubusercontent.com/Eurt-labs/Eurt-labs/output/github-streak.svg" width="55%" />
 
 <br/><br/>
 
