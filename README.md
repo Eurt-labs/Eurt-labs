@@ -157,25 +157,23 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 <br/><br/>
 
 <!-- Stats Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&theme=react&border_color=D97706&border_radius=12&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=FFFFFF&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&theme=react&border_color=D97706&border_radius=12&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=FFFFFF&hide_border=false&count_private=true&include_all_commits=true&v=1" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurt-labs&layout=compact&theme=react&border_color=D97706&border_radius=12&bg_color=0D1117&title_color=D97706&text_color=FFFFFF&hide_border=false&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurt-labs&layout=compact&theme=react&border_color=D97706&border_radius=12&bg_color=0D1117&title_color=D97706&text_color=FFFFFF&hide_border=false&langs_count=8&v=1" height="180" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurt-labs&theme=react&border=D97706&ring=D97706&fire=D97706&currStreakLabel=D97706&sideLabels=D97706&background=0D1117&stroke=D97706" width="55%" />
+<img src="https://streak-stats.demolab.com/?user=Eurt-labs&theme=react&border=D97706&ring=D97706&fire=D97706&currStreakLabel=D97706&sideLabels=D97706&background=0D1117&stroke=D97706&v=1" width="55%" />
 
 <br/><br/>
 
 <!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=Eurt-labs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Eurt-labs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" width="90%" />
 
 <br/><br/>
 
 </div>
-
-<img src="./assets/divider.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     CERTIFICATIONS                                 -->
@@ -221,8 +219,6 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 
 <br/>
 
-<img src="./assets/divider.png" width="100%" />
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     CONTRIBUTION SNAKE                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -238,13 +234,10 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Eurt-labs/Eurt-labs/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> 💡 *Set up the [snake workflow](https://github.com/Platane/snk) via GitHub Actions to generate the animation automatically!*
 
 </div>
 
 <br/>
-
-<img src="./assets/divider.png" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     SPOTIFY / CURRENT VIBES                        -->
