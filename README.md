@@ -189,7 +189,7 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. �
 
 <samp>
 
-**"I build beautiful things, then break them to see how they bleed."**
+**"In the cloud, no one can hear your servers scream."**
 
 *Last updated: June 2026 · Built with ☕ and paranoia*
 
