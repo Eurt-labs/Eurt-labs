@@ -102,37 +102,9 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. �
 
 <br/>
 
-#### 💻 Languages & Core
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,c,js,ts,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,bash,nextjs,react,nodejs,docker,aws,gcp,linux,git,mongodb,mysql&theme=dark&perline=8" />
 
 <br/><br/>
-
-#### 🛠️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,django,nestjs,vue,electron&theme=dark" />
-
-<br/><br/>
-
-#### 🗄️ Databases & Infrastructure
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker,aws,gcp,graphql&theme=dark" />
-
-<br/><br/>
-
-#### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,arch,fedora,git,arduino,kafka,pytorch,blender&theme=dark" />
-
-<br/><br/>
-
-#### 🛡️ Security Arsenal
-<p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/Frida-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/jadx-343434?style=for-the-badge&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Autopsy-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" />
-</p>
 
 </div>
 
