@@ -169,7 +169,7 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 <br/><br/>
 
 <!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=Eurt-labs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&v=1" width="90%" />
+<img src="https://github-profile-trophy-599bwplag-eurt-labs-projects.vercel.app/?username=Eurt-labs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
 
 <br/><br/>
 
