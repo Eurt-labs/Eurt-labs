@@ -179,13 +179,6 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. ðŸ
 
 <br/><br/>
 
-<!-- Download Resume -->
-<a href="https://dhruvv.app/resume.pdf">
-<img src="https://img.shields.io/badge/ðŸ“„_Download_Resume-Click_Here-D97706?style=for-the-badge" alt="Resume" />
-</a>
-
-<br/><br/>
-
 ---
 
 <br/>
