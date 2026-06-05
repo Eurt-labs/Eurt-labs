@@ -176,50 +176,6 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CERTIFICATIONS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;`$ cat certifications.log`
-
-<div align="center">
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/eJPT_v2-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDFMMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNUwxMiAxeiIvPjwvc3ZnPg==&logoColor=white" alt="eJPT" /><br/>
-<sub><b>INE Security</b></sub><br/>
-<sub>Penetration Testing</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/CEH_Practical-1BA0D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" alt="CEH" /><br/>
-<sub><b>EC-Council</b></sub><br/>
-<sub>Ethical Hacker</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Bug_Bounty-F55036?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Bounty" /><br/>
-<sub><b>Bugcrowd</b></sub><br/>
-<sub>Auth Bypass Found</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cloud_SEC-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud SEC" /><br/>
-<sub><b>Google</b></sub><br/>
-<sub>Cloud Security</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/HW_Security-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="HW Security" /><br/>
-<sub><b>Coursera</b></sub><br/>
-<sub>Side-Channel Analysis</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     CONTRIBUTION SNAKE                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
