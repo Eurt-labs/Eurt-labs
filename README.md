@@ -157,10 +157,6 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. ğŸ
 
 <div align="center">
 
-<img src="./assets/footer_banner.png" width="100%" />
-
-<br/><br/>
-
 ### ğŸ¤ &nbsp;`$ curl --connect`
 
 <br/>
