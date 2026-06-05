@@ -40,10 +40,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;`$ whoami`
 
 ```yaml
-name: Dhruv Kumar Sharma
+name: Dhruv Sharma
 alias: Eurt-labs
-title: Security Researcher · Full-Stack Architect · Edge Systems Engineer
-location: Greater Noida, India 🇮🇳
+title: Cloud Engineer | Developer
+location: Delhi, India 🇮🇳
 portfolio: https://dhruvv.app
 email: dhruv15saraswat@gmail.com
 
@@ -52,14 +52,7 @@ currently:
   learning: "LLM Modulation · Cloud Architecture · Adversarial ML"
   exploring: "MTproto Protocol · Dijkstra at Scale"
 
-certifications:
-  - "eJPT v2 — INE Security"
-  - "CEH Practical — EC-Council"
-  - "Android Bug Bounty — Bugcrowd"
-  - "Google Cloud Security — Google"
-  - "Hardware Security — Coursera"
-
-fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸"
+fun_fact: "I build beautiful things and I break Things to see how they bleed. 🩸"
 ```
 
 <br/>
@@ -159,20 +152,8 @@ fun_fact: "I build beautiful things, then break them to see how they bleed. 🩸
 
 <br/><br/>
 
-<!-- Stats Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&theme=react&border_color=D97706&border_radius=12&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=FFFFFF&hide_border=false&count_private=true&include_all_commits=true&v=1" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurt-labs&layout=compact&theme=react&border_color=D97706&border_radius=12&bg_color=0D1117&title_color=D97706&text_color=FFFFFF&hide_border=false&langs_count=8&v=1" height="180" />
-
-<br/><br/>
-
 <!-- Streak Stats -->
 <img src="https://raw.githubusercontent.com/Eurt-labs/Eurt-labs/output/github-streak.svg" width="55%" />
-
-<br/><br/>
-
-<!-- Trophy Case -->
-<img src="https://github-profile-trophy-599bwplag-eurt-labs-projects.vercel.app/?username=Eurt-labs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
 
 <br/><br/>
 
