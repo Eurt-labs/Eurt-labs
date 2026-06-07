@@ -125,7 +125,7 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. ðŸ
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="./assets/github-streak.svg" width="55%" />
+<img src="https://raw.githubusercontent.com/Eurt-labs/Eurt-labs/output/github-streak.svg" width="55%" />
 
 <br/><br/>
 
