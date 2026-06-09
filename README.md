@@ -17,6 +17,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%7C+Developer;%F0%9F%9B%A1%EF%B8%8F+Breaking+systems+to+make+them+stronger." alt="Typing SVG" /></a>
 
+
 <br/>
 
 <!-- Profile Views + Stars -->
