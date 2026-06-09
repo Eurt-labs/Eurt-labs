@@ -125,8 +125,15 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. ðŸ
 
 <br/><br/>
 
+<!-- Stats & Languages Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&theme=dark&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=FFFFFF&border_color=D97706&hide_border=false" alt="GitHub Stats" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurt-labs&layout=compact&theme=dark&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=FFFFFF&border_color=D97706&hide_border=false" alt="Top Languages" width="48%" />
+
+<br/><br/>
+
 <!-- Streak Stats -->
-<img src="https://raw.githubusercontent.com/Eurt-labs/Eurt-labs/output/github-streak.svg" width="55%" />
+<img src="https://streak-stats.demolab.com/?user=Eurt-labs&theme=dark&background=0D1117&border=D97706&ring=D97706&fire=D97706&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=D97706" alt="Streak Stats" width="97%" />
 
 <br/><br/>
 
