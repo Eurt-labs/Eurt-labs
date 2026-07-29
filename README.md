@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%7C+Developer;%F0%9F%9B%A1%EF%B8%8F+Breaking+systems+to+make+them+stronger." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1%EF%B8%8F+Electronics+%26+Communication+Engineer;%F0%9F%94%AC+IoT+%7C+AI%2FML+%7C+VLSI+%7C+Quantum;%F0%9F%9B%A1%EF%B8%8F+Breaking+systems+to+make+them+stronger." alt="Typing SVG" /></a>
 
 
 <br/>
@@ -43,17 +43,17 @@
 ```yaml
 name: Dhruv Sharma
 alias: Eurt-labs
-title: Cloud Engineer | Developer
-location: Delhi, India 🇮🇳
+title: ECE Engineer | IoT, AI/ML & Security Researcher
+location: New Delhi, Delhi, India 🇮🇳
 portfolio: https://dhruvv.app
 email: dhruv15saraswat@gmail.com
 
 currently:
-  working_on: "AI-Powered Threat Intelligence Platform"
-  learning: "LLM Modulation · Cloud Architecture · Adversarial ML"
-  exploring: "MTproto Protocol · Dijkstra at Scale"
+  working_on: "Researching emerging tech, IoT, AI/ML, VLSI, Circuits"
+  learning: "Quantum computing, wireless tech & hardware networks"
+  exploring: "Physics, deep tech and invisible networks"
 
-fun_fact: "I build beautiful things and I break Things to see how they bleed. 🩸"
+fun_fact: "I spend most of my time falling down rabbit holes in quantum computing, and the rest looking for my phone :)"
 ```
 
 <br/>
@@ -86,6 +86,42 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. �
 - ⚡ **Edge AI** — ESP32 Firmware, Sensor Systems
 - ☁️ **Cloud** — AWS, GCP, Docker, CI/CD
 - 🤖 **AI/ML** — LLM Integration, PyTorch
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     EXPERIENCE & CERTIFICATIONS                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 &nbsp;Experience & Education
+
+- 🎓 **Gautam Buddha University** — B.Tech ECE (Aug 2025 - Aug 2029)
+- ☁️ **AWS Student Builder Group** — Core Member @ GBU
+- ⚙️ **Dev Ops Team** — Core Member
+- 🏆 **Mirco 2026** — 2nd Position
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 &nbsp;Certifications & Top Skills
+
+- 🛡️ **ISC2 Candidate**
+- 🔒 **Industrial Program in Cyber Security**
+- 🎣 **Cyber Security Project** — Phishing Awareness Simulation
+- ⚖️ **DPDPA Explained** — Cyber Shakti Foundation
+- 📊 **Top Skills:** Data Engineering, Deep Artifact Analysis, Forensic Tools
 
 </td>
 </tr>
@@ -195,7 +231,7 @@ fun_fact: "I build beautiful things and I break Things to see how they bleed. �
 
 **"In the cloud, no one can hear your servers scream."**
 
-*Last updated: June 2026 · Built with ☕ and paranoia*
+*Last updated: July 2026 · Built with ☕ and paranoia*
 
 </samp>
 
