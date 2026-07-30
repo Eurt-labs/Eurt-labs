@@ -27,23 +27,25 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Scrape real contribution data (no auth needed)
-        run: python scripts/fetch_contributions.py
+        env:
+          GH_PROFILE_USER: Eurt-labs
+        run: python scripts/fetch_contributions.py > debug.log 2>&1 || true
 
       - name: Render animated contribution graph SVG
-        run: python scripts/render_heatmap_svg.py
+        run: python scripts/render_heatmap_svg.py >> debug.log 2>&1 || true
 
       - name: Generate Info Card
-        run: python scripts/make_info_card.py
+        run: python scripts/make_info_card.py >> debug.log 2>&1 || true
 
       - name: Generate ASCII Portrait
         run: |
           if [ -f "source-photo.jpg" ]; then
-            python scripts/prep_photo.py source-photo.jpg source-prepped.png
-            python scripts/make_ascii_svg.py source-prepped.png dhruv-ascii.svg
+            python scripts/prep_photo.py source-photo.jpg source-prepped.png >> debug.log 2>&1 || true
+            python scripts/make_ascii_svg.py source-prepped.png dhruv-ascii.svg >> debug.log 2>&1 || true
           fi
 
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg source-prepped.png dhruv-ascii.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg source-prepped.png dhruv-ascii.svg debug.log"
