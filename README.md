@@ -17,6 +17,24 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1%EF%B8%8F+Electronics+%26+Communication+Engineer;%F0%9F%94%AC+IoT+%7C+AI%2FML+%7C+VLSI+%7C+Quantum;%F0%9F%9B%A1%EF%B8%8F+Breaking+systems+to+make+them+stronger." alt="Typing SVG" /></a>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED PROFILE ART                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h3><code>dhruv@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>dhruv@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./dhruv-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
 <br/>
 
