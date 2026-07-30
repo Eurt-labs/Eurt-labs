@@ -71,7 +71,7 @@
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Eurt-labs&theme=dark&background=0D1117&border=D97706&ring=D97706&fire=D97706&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=D97706" alt="Streak Stats" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurt-labs&theme=dark&background=0D1117&border=D97706&ring=D97706&fire=D97706&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=D97706" alt="Streak Stats" width="97%" />
 
 <br/><br/>
 
