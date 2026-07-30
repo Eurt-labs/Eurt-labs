@@ -75,26 +75,48 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<br/>
+
+## 🛠️ Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nodejs,express,mongodb,postgresql,aws,docker,git,linux&perline=7" />
+</a>
+
+<br/><br/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     CONNECT                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-### 🤝 &nbsp;`$ curl --connect`
-
 <br/>
 
-<a href="https://dhruvv.app"><img src="https://img.shields.io/badge/🌐_Portfolio-dhruvv.app-3B82F6?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://github.com/Eurt-labs"><img src="https://img.shields.io/badge/GitHub-Eurt--labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/dhruv-saraswat-vrtl"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://instagram.com/dhruv_saraswat_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-&nbsp;
-<a href="https://dev.to/eurtlabs"><img src="https://img.shields.io/badge/Dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-&nbsp;
-<a href="mailto:dhruv15saraswat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+## 🤝 Let's Connect!
+
+<a href="https://linkedin.com/in/dhruv-saraswat-vrtl">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Eurt-labs">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://instagram.com/dhruv_saraswat_">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://dev.to/eurtlabs">
+  <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
+</a>
+<a href="mailto:dhruv15saraswat@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
+<a href="https://dhruvv.app">
+  <img src="https://skillicons.dev/icons?i=web" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
