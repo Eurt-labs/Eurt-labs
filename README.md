@@ -59,12 +59,6 @@
 
 <br/><br/>
 
-<!-- Stats & Languages Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eurt-labs&show_icons=true&theme=dark&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_color=3B82F6&hide_border=false" alt="GitHub Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurt-labs&layout=compact&theme=dark&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_color=3B82F6&hide_border=false" alt="Top Languages" width="48%" />
-
-<br/><br/>
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurt-labs&theme=dark&background=0D1117&border=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=3B82F6" alt="Streak Stats" width="97%" />
