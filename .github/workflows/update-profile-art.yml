@@ -23,19 +23,22 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+      - name: Install base dependencies
+        run: pip install requests==2.32.3 beautifulsoup4==4.12.3 Pillow==12.1.1 numpy==1.26.4 > debug.log 2>&1 || true
 
       - name: Scrape real contribution data (no auth needed)
         env:
           GH_PROFILE_USER: Eurt-labs
-        run: python scripts/fetch_contributions.py > debug.log 2>&1 || true
+        run: python scripts/fetch_contributions.py >> debug.log 2>&1 || true
 
       - name: Render animated contribution graph SVG
         run: python scripts/render_heatmap_svg.py >> debug.log 2>&1 || true
 
       - name: Generate Info Card
         run: python scripts/make_info_card.py >> debug.log 2>&1 || true
+
+      - name: Install photo dependencies
+        run: pip install rembg opencv-python-headless >> debug.log 2>&1 || true
 
       - name: Generate ASCII Portrait
         run: |
