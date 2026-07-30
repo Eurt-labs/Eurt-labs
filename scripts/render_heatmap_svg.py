@@ -25,7 +25,7 @@ STEP = CELL + GAP
 PAD = 22
 LEFT_LABEL_W = 30
 TOP_LABEL_H = 20
-TITLEBAR_H = 30
+TITLEBAR_H = 0
 
 BG = "#0a0e14"
 BG2 = "#0d1420"
@@ -120,13 +120,7 @@ def render(data):
         f'<rect width="{canvas_w}" height="{canvas_h}" rx="12" fill="url(#hbg)"/>',
         f'<rect x="0.5" y="0.5" width="{canvas_w-1}" height="{canvas_h-1}" rx="12" '
         f'fill="none" stroke="{FRAME}" stroke-width="1" stroke-opacity="0.55"/>',
-        f'<line x1="0" y1="{TITLEBAR_H}" x2="{canvas_w}" y2="{TITLEBAR_H}" stroke="{FRAME}" stroke-opacity="0.35"/>',
     ]
-    for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
-        parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
-    parts.append(f'<text x="{canvas_w/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-                 f'text-anchor="middle">avi@github: ~/contributions --graph</text>')
-
     grid_top = TITLEBAR_H + TOP_LABEL_H
     grid_left = PAD + LEFT_LABEL_W
 
