@@ -24,27 +24,24 @@ jobs:
           python-version: "3.11"
 
       - name: Install base dependencies
-        run: pip install requests==2.32.3 beautifulsoup4==4.12.3 Pillow==12.1.1 numpy==1.26.4 > debug.log 2>&1 || true
+        run: pip install requests==2.32.3 beautifulsoup4==4.12.3 Pillow==12.1.1 numpy==1.26.4
 
       - name: Scrape real contribution data (no auth needed)
         env:
           GH_PROFILE_USER: Eurt-labs
-        run: python scripts/fetch_contributions.py >> debug.log 2>&1 || true
+        run: python scripts/fetch_contributions.py
 
       - name: Render animated contribution graph SVG
-        run: python scripts/render_heatmap_svg.py >> debug.log 2>&1 || true
+        run: python scripts/render_heatmap_svg.py
 
       - name: Generate Info Card
-        run: python scripts/make_info_card.py >> debug.log 2>&1 || true
-
-      - name: Install photo dependencies
-        run: pip install rembg opencv-python-headless >> debug.log 2>&1 || true
+        run: python scripts/make_info_card.py
 
       - name: Generate ASCII Portrait
         run: |
           if [ -f "source-photo.jpg" ]; then
-            python scripts/prep_photo.py source-photo.jpg source-prepped.png >> debug.log 2>&1 || true
-            python scripts/make_ascii_svg.py source-prepped.png dhruv-ascii.svg >> debug.log 2>&1 || true
+            python scripts/prep_photo.py source-photo.jpg source-prepped.png
+            python scripts/make_ascii_svg.py source-prepped.png dhruv-ascii.svg
           fi
 
       - name: Commit updated art
