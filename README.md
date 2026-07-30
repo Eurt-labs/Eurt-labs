@@ -29,105 +29,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     SECTION DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME — TERMINAL STYLE                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;`$ whoami`
-
-```yaml
-name: Dhruv Sharma
-alias: Eurt-labs
-title: ECE Engineer | IoT, AI/ML & Security Researcher
-location: New Delhi, Delhi, India 🇮🇳
-portfolio: https://dhruvv.app
-email: dhruv15saraswat@gmail.com
-
-currently:
-  working_on: "Researching emerging tech, IoT, AI/ML, VLSI, Circuits"
-  learning: "Quantum computing, wireless tech & hardware networks"
-  exploring: "Physics, deep tech and invisible networks"
-
-fun_fact: "I spend most of my time falling down rabbit holes in quantum computing, and the rest looking for my phone :)"
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     WHAT I DO — ANIMATED CARDS                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Offensive Security
-
-- 🔴 **VAPT** — Web, Network & Android Pentesting
-- 🧬 **Reverse Engineering** — jadx, Frida, ADB
-- 🕵️ **DFIR** — AI-Assisted Digital Forensics
-- 🎯 **Bug Bounty** — Auth bypass in production apps
-- 🛡️ **OWASP** — Full Mobile Top 10 coverage
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="25"> &nbsp;Engineering & Architecture
-
-- 📱 **Mobile** — Native Android (Kotlin + Jetpack)
-- 🌐 **Web** — Next.js, React, Node.js, Express
-- ⚡ **Edge AI** — ESP32 Firmware, Sensor Systems
-- ☁️ **Cloud** — AWS, GCP, Docker, CI/CD
-- 🤖 **AI/ML** — LLM Integration, PyTorch
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     EXPERIENCE & CERTIFICATIONS                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 &nbsp;Experience & Education
-
-- 🎓 **Gautam Buddha University** — B.Tech ECE (Aug 2025 - Aug 2029)
-- ☁️ **AWS Student Builder Group** — Core Member @ GBU
-- ⚙️ **Dev Ops Team** — Core Member
-- 🏆 **Mirco 2026** — 2nd Position
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 &nbsp;Certifications & Top Skills
-
-- 🛡️ **ISC2 Candidate**
-- 🔒 **Industrial Program in Cyber Security**
-- 🎣 **Cyber Security Project** — Phishing Awareness Simulation
-- ⚖️ **DPDPA Explained** — Cyber Shakti Foundation
-- 📊 **Top Skills:** Data Engineering, Deep Artifact Analysis, Forensic Tools
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     TECH STACK                                     -->
@@ -227,12 +129,6 @@ fun_fact: "I spend most of my time falling down rabbit holes in quantum computin
 
 <br/>
 
-<samp>
 
-**"In the cloud, no one can hear your servers scream."**
-
-*Last updated: July 2026 · Built with ☕ and paranoia*
-
-</samp>
 
 </div>
