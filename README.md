@@ -21,7 +21,7 @@
 <!-- Profile Views + Stars -->
 <img src="https://komarev.com/ghpvc/?username=Eurt-labs&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/Eurt-labs?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-9-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+<a href="https://github.com/Eurt-labs?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEurt-labs&query=public_repos&label=Public%20Repos&color=1a1a2e&style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 &nbsp;
 <a href="https://dhruvv.app"><img src="https://img.shields.io/badge/Portfolio-dhruvv.app-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
@@ -29,24 +29,7 @@
 
 
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`$ cat tech_stack.yml`
-
-<div align="center">
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,bash,nextjs,react,nodejs,docker,aws,gcp,linux,git,mongodb,mysql&theme=dark&perline=8" />
-
-<br/><br/>
-
-</div>
-
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
