@@ -105,7 +105,7 @@
 <a href="https://dev.to/eurtlabs">
   <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
 </a>
-<a href="mailto:dhruv15saraswat@gmail.com">
+<a href="mailto:dhruv15saraswat@gmail.com?subject=Connecting%20from%20GitHub&body=Hi%20Dhruv,%0A%0AI%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect!%0A">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 <a href="https://dhruvv.app">
