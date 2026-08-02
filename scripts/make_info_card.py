@@ -54,7 +54,7 @@ def generate_info_card():
         </g>
 
         <g opacity="0"><animate attributeName="opacity" to="1" dur="0.2s" begin="1.9s" fill="freeze"/>
-            <text x="30" y="325"><tspan fill="#ffbd2e" font-weight="bold">College</tspan>: [Your College Name Here]</text>
+            <text x="30" y="325"><tspan fill="#ffbd2e" font-weight="bold">College</tspan>: Gautam Buddha University </text>
         </g>
 
         <!-- Color blocks -->
