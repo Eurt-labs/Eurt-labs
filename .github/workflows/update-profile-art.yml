@@ -44,6 +44,14 @@ jobs:
             python scripts/make_ascii_svg.py source-prepped.png dhruv-ascii.svg
           fi
 
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: "Eurt-labs"
+          output_path: "activity-graph.svg"
+          options: "bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&custom_title=📈%20Contribution%20Timeline"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

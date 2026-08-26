@@ -38,13 +38,13 @@
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eurt-labs&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&custom_title=📈%20Contribution%20Timeline" width="95%" />
+<img src="./activity-graph.svg" width="95%" />
 
 <br/><br/>
 
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurt-labs&theme=dark&background=0D1117&border=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=3B82F6" alt="Streak Stats" width="97%" />
+<img src="https://streak-stats.demolab.com/?user=Eurt-labs&theme=dark&background=0D1117&border=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=3B82F6" alt="Streak Stats" width="97%" />
 
 <br/><br/>
 
