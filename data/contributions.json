@@ -1,22 +1,22 @@
 {
   "username": "Eurt-labs",
-  "generated_at": "2026-08-25T07:07:13Z",
+  "generated_at": "2026-08-26T07:07:26Z",
   "range": {
     "start": "2025-08-24",
+    "end": "2026-08-26"
+  },
+  "total_contributions": 1067,
+  "active_days": 78,
+  "avg_per_active_day": 13.7,
+  "current_streak": {
+    "length": 36,
+    "start": "2026-07-21",
     "end": "2026-08-25"
   },
-  "total_contributions": 1066,
-  "active_days": 77,
-  "avg_per_active_day": 13.8,
-  "current_streak": {
-    "length": 35,
-    "start": "2026-07-21",
-    "end": "2026-08-24"
-  },
   "longest_streak": {
-    "length": 35,
+    "length": 36,
     "start": "2026-07-21",
-    "end": "2026-08-24"
+    "end": "2026-08-25"
   },
   "best_day": {
     "date": "2026-06-01",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 438
+      "total": 439
     }
   ],
   "days": [
@@ -1543,6 +1543,10 @@
     },
     {
       "date": "2026-08-25",
+      "count": 1
+    },
+    {
+      "date": "2026-08-26",
       "count": 0
     }
   ]
