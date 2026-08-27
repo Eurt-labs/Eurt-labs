@@ -37,6 +37,12 @@ jobs:
       - name: Generate Info Card
         run: python scripts/make_info_card.py
 
+      - name: Generate Animated Tech Stack
+        run: python scripts/make_tech_stack_svg.py
+
+      - name: Generate Anime Banner
+        run: python scripts/make_anime_banner.py
+
       - name: Generate ASCII Portrait
         run: |
           if [ -f "source-photo.jpg" ]; then

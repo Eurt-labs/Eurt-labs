@@ -1,6 +1,10 @@
 <div align="center">
 
 
+<img src="./anime-banner.svg" width="100%" />
+
+<br/><br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED PROFILE ART                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -62,7 +66,7 @@
 ## 🛠️ Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nodejs,express,mongodb,postgresql,aws,docker,git,linux&perline=7" />
+  <img src="./tech-stack.svg" />
 </a>
 
 <br/><br/>
