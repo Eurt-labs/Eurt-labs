@@ -18,13 +18,6 @@
 
 <br/>
 
-<!-- Profile Views + Stars -->
-<img src="https://komarev.com/ghpvc/?username=Eurt-labs&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Eurt-labs?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEurt-labs&query=$.public_repos&label=Public%20Repos&color=1a1a2e&style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
-&nbsp;
-<a href="https://dhruvv.app"><img src="https://img.shields.io/badge/Portfolio-dhruvv.app-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
 </div>
 
 
@@ -42,6 +35,14 @@
 
 <br/><br/>
 
+
+<!-- Profile Views + Stars -->
+<img src="https://komarev.com/ghpvc/?username=Eurt-labs&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://dhruvv.app"><img src="https://img.shields.io/badge/Portfolio-dhruvv.app-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+
+<br/><br/>
 
 <!-- Streak Stats -->
 <img src="./streak-stats.svg" alt="Streak Stats" width="97%" />
