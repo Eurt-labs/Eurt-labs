@@ -44,7 +44,7 @@
 
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Eurt-labs&theme=dark&background=0D1117&border=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=3B82F6" alt="Streak Stats" width="97%" />
+<img src="./streak-stats.svg" alt="Streak Stats" width="97%" />
 
 <br/><br/>
 

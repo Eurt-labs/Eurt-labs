@@ -52,6 +52,13 @@ jobs:
           options: "bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&custom_title=📈%20Contribution%20Timeline"
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: "user=Eurt-labs&theme=dark&background=0D1117&border=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=3B82F6"
+          path: "streak-stats.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
